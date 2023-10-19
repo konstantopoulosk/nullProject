@@ -1,2 +1,0 @@
-# nullProject
-Hello World-Introduction
